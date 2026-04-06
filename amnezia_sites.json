@@ -1,0 +1,330 @@
+[
+    {
+        "hostname": "155.212.204.140",
+        "ip": ""
+    },
+    {
+        "hostname": "155.212.204.5",
+        "ip": ""
+    },
+    {
+        "hostname": "185.138.253.1",
+        "ip": ""
+    },
+    {
+        "hostname": "185.180.201.1",
+        "ip": ""
+    },
+    {
+        "hostname": "185.65.148.127",
+        "ip": ""
+    },
+    {
+        "hostname": "185.65.149.127",
+        "ip": ""
+    },
+    {
+        "hostname": "185.73.194.82",
+        "ip": ""
+    },
+    {
+        "hostname": "213.184.155.142",
+        "ip": ""
+    },
+    {
+        "hostname": "213.59.253.7",
+        "ip": ""
+    },
+    {
+        "hostname": "5ka.ru",
+        "ip": "91.221.164.42"
+    },
+    {
+        "hostname": "77.88.55.88",
+        "ip": ""
+    },
+    {
+        "hostname": "87.240.132.164",
+        "ip": ""
+    },
+    {
+        "hostname": "87.240.132.67",
+        "ip": ""
+    },
+    {
+        "hostname": "87.240.132.72",
+        "ip": ""
+    },
+    {
+        "hostname": "87.240.132.78",
+        "ip": ""
+    },
+    {
+        "hostname": "90.156.232.4",
+        "ip": ""
+    },
+    {
+        "hostname": "alfabank.ru",
+        "ip": "217.12.104.100"
+    },
+    {
+        "hostname": "avito.ru",
+        "ip": "176.114.122.24"
+    },
+    {
+        "hostname": "dzen.ru",
+        "ip": "5.61.23.39"
+    },
+    {
+        "hostname": "gosuslugi.ru",
+        "ip": "213.59.254.7"
+    },
+    {
+        "hostname": "gov.ru",
+        "ip": "95.173.128.89"
+    },
+    {
+        "hostname": "headhunter.ru",
+        "ip": "94.124.200.1"
+    },
+    {
+        "hostname": "hh.ru",
+        "ip": "94.124.200.0"
+    },
+    {
+        "hostname": "kinopoisk.ru",
+        "ip": "213.180.199.9"
+    },
+    {
+        "hostname": "kuper.ru",
+        "ip": "194.190.0.50"
+    },
+    {
+        "hostname": "lamoda.ru",
+        "ip": "81.161.98.78"
+    },
+    {
+        "hostname": "lenta.ru",
+        "ip": "81.19.72.34"
+    },
+    {
+        "hostname": "mail.ru",
+        "ip": "89.221.239.1"
+    },
+    {
+        "hostname": "max.ru",
+        "ip": "155.212.204.74"
+    },
+    {
+        "hostname": "mos.ru",
+        "ip": "94.79.51.170"
+    },
+    {
+        "hostname": "my.mos.ru",
+        "ip": "212.45.30.3"
+    },
+    {
+        "hostname": "ok.ru",
+        "ip": "95.163.61.73"
+    },
+    {
+        "hostname": "okko.tv",
+        "ip": "185.169.155.118"
+    },
+    {
+        "hostname": "ozon.ru",
+        "ip": "185.73.193.68"
+    },
+    {
+        "hostname": "perekrestok.ru",
+        "ip": "109.238.90.201"
+    },
+    {
+        "hostname": "pikabu.ru",
+        "ip": "185.178.210.201"
+    },
+    {
+        "hostname": "rambler.ru",
+        "ip": "81.19.82.1"
+    },
+    {
+        "hostname": "rostics.ru",
+        "ip": "212.193.157.140"
+    },
+    {
+        "hostname": "rudn.ru",
+        "ip": "192.168.80.63"
+    },
+    {
+        "hostname": "rutube.ru",
+        "ip": "178.248.233.148"
+    },
+    {
+        "hostname": "rzd.ru",
+        "ip": "212.164.138.130"
+    },
+    {
+        "hostname": "sber.ru",
+        "ip": "84.252.149.198"
+    },
+    {
+        "hostname": "sberbank.ru",
+        "ip": "84.252.149.206"
+    },
+    {
+        "hostname": "spar.ru",
+        "ip": "185.26.122.68"
+    },
+    {
+        "hostname": "spb.ru",
+        "ip": "178.210.74.11"
+    },
+    {
+        "hostname": "tbank.ru",
+        "ip": "178.130.128.27"
+    },
+    {
+        "hostname": "vk.com",
+        "ip": "93.186.225.194"
+    },
+    {
+        "hostname": "vk.ru",
+        "ip": "87.240.129.133"
+    },
+    {
+        "hostname": "vkusvill.ru",
+        "ip": "178.248.232.221"
+    },
+    {
+        "hostname": "wb.ru",
+        "ip": "185.138.255.1"
+    },
+    {
+        "hostname": "wildberries.ru",
+        "ip": "185.62.202.2"
+    },
+    {
+        "hostname": "www.alfabank.ru",
+        "ip": "217.12.104.100"
+    },
+    {
+        "hostname": "www.avito.ru",
+        "ip": "176.114.120.24"
+    },
+    {
+        "hostname": "www.dzen.ru",
+        "ip": "62.217.160.2"
+    },
+    {
+        "hostname": "www.gosuslugi.ru",
+        "ip": "109.207.8.118"
+    },
+    {
+        "hostname": "www.gov.ru",
+        "ip": "Не найден"
+    },
+    {
+        "hostname": "www.headhunter.ru",
+        "ip": "Не найден"
+    },
+    {
+        "hostname": "www.hh.ru",
+        "ip": "94.124.200.0"
+    },
+    {
+        "hostname": "www.kinopoisk.ru",
+        "ip": "213.180.199.9"
+    },
+    {
+        "hostname": "www.lenta.ru",
+        "ip": "81.19.72.33"
+    },
+    {
+        "hostname": "www.mail.ru",
+        "ip": "94.100.180.216"
+    },
+    {
+        "hostname": "www.max.ru",
+        "ip": "Не найден"
+    },
+    {
+        "hostname": "www.mos.ru",
+        "ip": "94.79.51.169"
+    },
+    {
+        "hostname": "www.my.mos.ru",
+        "ip": "Не найден"
+    },
+    {
+        "hostname": "www.ok.ru",
+        "ip": "95.163.61.73"
+    },
+    {
+        "hostname": "www.okko.tv",
+        "ip": "185.169.155.118"
+    },
+    {
+        "hostname": "www.ozon.ru",
+        "ip": "185.73.193.68"
+    },
+    {
+        "hostname": "www.pikabu.ru",
+        "ip": "185.178.210.201"
+    },
+    {
+        "hostname": "www.rambler.ru",
+        "ip": "81.19.82.0"
+    },
+    {
+        "hostname": "www.rudn.ru",
+        "ip": "185.178.208.57"
+    },
+    {
+        "hostname": "www.rutube.ru",
+        "ip": "178.248.233.148"
+    },
+    {
+        "hostname": "www.rzd.ru",
+        "ip": "Не найден"
+    },
+    {
+        "hostname": "www.sber.ru",
+        "ip": "194.186.207.19"
+    },
+    {
+        "hostname": "www.sberbank.ru",
+        "ip": "84.252.149.206"
+    },
+    {
+        "hostname": "www.spb.ru",
+        "ip": "Не найден"
+    },
+    {
+        "hostname": "www.tbank.ru",
+        "ip": "178.130.128.27"
+    },
+    {
+        "hostname": "www.vk.com",
+        "ip": "87.240.129.133"
+    },
+    {
+        "hostname": "www.vk.ru",
+        "ip": "87.240.129.133"
+    },
+    {
+        "hostname": "www.wildberries.ru",
+        "ip": "185.62.202.2"
+    },
+    {
+        "hostname": "www.yandex.ru",
+        "ip": "5.255.255.77"
+    },
+    {
+        "hostname": "ya.ru",
+        "ip": "5.255.255.242"
+    },
+    {
+        "hostname": "yandex.ru",
+        "ip": "77.88.44.55"
+    }
+]
